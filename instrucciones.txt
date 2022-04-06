@@ -1,0 +1,8 @@
+pip install websockets
+pip install sympy
+pip install pytest
+virtualenv venv
+Set-ExecutionPolicy Unrestricted -Scope Process 
+
+
+Run pytest
